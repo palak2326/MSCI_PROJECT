@@ -1,6 +1,9 @@
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\CSVReader.java
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\ShoppingCart.java
+C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\ProductDecorator.java
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\Customer.java
+C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\WarrantyDecorator.java
+C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\GiftWrapDecorator.java
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\Main.java
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\Order.java
 C:\MSCI_ShoppingCart\JavaAssignment102\shopping_cart\src\main\java\com\shopping\OrderItem.java
