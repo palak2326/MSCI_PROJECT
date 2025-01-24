@@ -33,7 +33,7 @@ class ShoppingCartTest {
         shoppingCart.placeOrder();
 
         // Validate the updated product quantity
-        assertEquals(997, product.getQuantity()); // Quantity should be reduced by 2 (5 - 2)
+        assertEquals(997, product.getQuantity()); // Quantity should be reduced by 3 (100 - 3)
     }
 
     // Other tests as needed
